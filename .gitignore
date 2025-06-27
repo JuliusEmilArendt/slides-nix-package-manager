@@ -3,3 +3,5 @@ result
 **/*.o
 **/*.out
 result
+
+.idea
